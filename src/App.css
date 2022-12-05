@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.profile{
+
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  
+}
+
+.font{
+  font-weight: bold;
+  font-style: italic;
+  color: orange;
+}
